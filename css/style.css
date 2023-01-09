@@ -1,6 +1,6 @@
 /*header styles*/
 .container {
-    background-image: url('../images/banner/banner1.png');
+    background-image: url('new-year-new-me/images/banner/banner1.png');
     background-size: 100% 100%;
     height: 100vh;
 
@@ -134,7 +134,7 @@ ul li {
 
 .gradient-styles {
 
-    background-image: url('../images/watch.png'), linear-gradient(red, yellow);
+    background-image: url(../styles/new-year-new-me/images/watch.png), linear-gradient(red, yellow);
     margin-left: 200px;
     margin-right: 200px;
     width: 1000px;
