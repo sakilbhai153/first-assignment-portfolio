@@ -85,3 +85,48 @@ ul li {
     color: #444343;
 
 }
+
+/* About-title */
+.section-title {
+    text-align: center;
+    margin-top: 100px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.skill-container {
+    display: flex;
+    gap: 20px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.skill {
+    margin-left: 130px;
+    margin-right: 70px;
+}
+
+.sub-skill {
+    color: #737272;
+}
+
+.skill-2 {
+  margin-right: 90px;
+}
+
+.sub-skill-2 {
+    color: #737272;
+}
+
+.skill-3 {
+    margin-right: 50px;
+}
+
+.sub-skill-3 {
+    color: #737272;
+    
+}
+
+.skill {
+    margin-left: 65px;
+}
