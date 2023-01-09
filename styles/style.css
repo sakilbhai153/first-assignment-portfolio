@@ -92,6 +92,7 @@ ul li {
     margin-top: 100px;
     font-weight: 700;
     font-size: 40px;
+    margin-right: 500px;
 }
 
 .skill-container {
@@ -111,7 +112,7 @@ ul li {
 }
 
 .skill-2 {
-  margin-right: 90px;
+    margin-right: 90px;
 }
 
 .sub-skill-2 {
@@ -124,9 +125,100 @@ ul li {
 
 .sub-skill-3 {
     color: #737272;
-    
+
 }
 
 .skill {
     margin-left: 65px;
+}
+
+.gradient-styles {
+
+    background-image: url(../styles/new-year-new-me/images/watch.png), linear-gradient(red, yellow);
+    margin-left: 200px;
+    margin-right: 200px;
+    width: 1000px;
+    height: 150px;
+}
+
+.positive-header {
+    width: 250px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.btn-styles {
+    width: 100px;
+    height: 40px;
+    color: #F15B22;
+}
+
+/* contact styles */
+
+.contact {
+    background-color: #151414;
+}
+
+.contact-paragraph {
+    width: 450px;
+    margin-left: 100px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+
+.ftr-header {
+    margin-left: 130px;
+    margin-top: 100px;
+    font-size: 60px;
+    color: #F8F8F8;
+
+}
+
+ul .eml-title {
+    margin-left: 60px;
+    margin-bottom: 10px;
+    color: #FFFFFF;
+
+}
+
+ul .ph-title {
+    margin-left: 60px;
+    margin-bottom: 20px;
+    color: #FFFFFF;
+
+
+}
+
+.img-div {
+    margin-left: 60px;
+    font-size: 18;
+}
+
+/* subscribe styles */
+.main-subs {
+    text-align: right;
+}
+
+.subs-styles {
+    margin-right: 100px;
+    font-size: 35px;
+    color: #FFFFFF;
+}
+
+.eml-styles {
+    width: 220px;
+    height: 47px;
+    margin-right: 20px;
+    color: #F3F3F3;
+    background-color: #151414;
+    border: groove border;
+}
+
+.subs-button {
+    width: 170px;
+    height: 47px;
+    margin-right: 70px;
+    border: groove border;
+    color: #F15B22;
 }
